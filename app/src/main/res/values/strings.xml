@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample app</string>
+    <string name="other_activity">calender</string>
+    <string name="hello_user">Hello User</string>
+    <string name="location">geo:21.1272827,79.1174217,17z</string>
+    <string name="contact_us">tel:9970976190</string>
+
+</resources>
